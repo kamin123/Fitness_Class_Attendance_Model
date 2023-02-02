@@ -9,10 +9,12 @@ If they can predict a member will not attend the class, they can make another sp
 
 
 This dataset contained 1500 observations and 8 variables.  
-Packages used in my analysis were: Pandas, Seaborn, Numpy, Matplotlib and Sklearn
+Packages used in my analysis were: Pandas, Seaborn, Numpy, Matplotlib and Sklearn.  
 To obtain my predictions, I first performed data validation making sure that all variables matched the criteria given to me. 
-I then went on to do exploratory data analysis checking the distributions of variables and plotting variables against one another looking for any relationships. 
-I finished with creating a **Logistic Regression** Model as a baseline and then creating a **Decision Tree** Model for a comparison to test the prediction against. 
-I went on to test the predictions with a classification report, specically looking at accuracy.
+I then went on to do exploratory data analysis checking the distributions of variables and plotting variables against one another looking for any relationships.  
+I finished with creating a **Logistic Regression** Model as a baseline and then creating a **Decision Tree** Model for a comparison to test the prediction against.   
+I went on to test the predictions with a classification report, specically looking at accuracy.  
 
-With further research, I would like to test more **binary classification models** and start to play around with hyperparamaters.
+With further projects, I plan to test more **binary classification models**, optimize variables included to create more efficient analysis and adjust hyperparameters to return a maximum accuracy score. 
+
+Thank you. 
